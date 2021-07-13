@@ -22,7 +22,7 @@ namespace FilterPage
                 LastName = "Rosell",
                 Gender =  Gender.Female,
                 BirthDate = new DateTime(1996, 4, 8, 00,00,00),
-                Height = 5.5d
+                Height = 5.4d
             }
         }; 
 
